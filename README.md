@@ -1,2 +1,12 @@
-# QA_Test_Application
-Automation project testing simple registration form and showcasing Playwright and C# skills.
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TestAssignment
+{
+    internal class README
+    {
+    }
+}

@@ -1,5 +1,5 @@
 ﻿using Microsoft.Playwright;
-using TestAssignment;
+using static TestAssignment.TestData;
 using static Microsoft.Playwright.Assertions;
 
 namespace TestAssignment.Pages
